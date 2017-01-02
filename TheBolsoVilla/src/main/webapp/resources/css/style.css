@@ -1,0 +1,16 @@
+body {
+    background-color:  red;
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 40%;
+      margin: 0;
+      
+  }
+  
+ .errors{
+ font-size:italic;
+ color:red;
+ 
+
+}
